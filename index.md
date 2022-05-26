@@ -38,4 +38,4 @@ A game created within Unity (version 2017) in mid 2022. It is a 2d version of Th
 
 ![Theme Park Game Screen](https://github.com/AlexZ0d/programing-portfolio-A3/blob/gh-pages/images/Theme%20Park.png?raw=true)
 
-[Source Code For Unity2017 Theme Park Tycoon](https://github.com/AlexZ0d/programing-portfolio-A3/blob/gh-pages/src/Theme%20Park%20Tycoon.zip?raw=true)
+[Source Code For Unity2017 Theme Park Tycoon](https://github.com/AlexZ0d/programing-portfolio-A3/blob/gh-pages/src/Assets.zip?raw=true)
