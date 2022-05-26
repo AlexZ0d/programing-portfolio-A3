@@ -34,7 +34,7 @@ Description:
 [Source Code for 99 Bottle](https://github.com/AlexZ0d/programing-portfolio-A3/blob/gh-pages/src/99-Bottles.zip?raw=true)
 
 ### Theme Park Tycoon
-A game created within Unity (version 2017) in mid 2022. It is a 2d version of Theme Park tycoon. The goal is for the user to create a park full of shops and rides, which gives the player money through customers, be careful not to fall in debt!
+A game created within Unity (version 2017) in mid 2022. It is a 2d version of Theme Park tycoon. The goal is for the user to create a park full of shops and rides, which gives the player money through customers, be careful not to fall in debt!Done Individually 
 
 ![Theme Park Game Screen](https://github.com/AlexZ0d/programing-portfolio-A3/blob/gh-pages/images/Theme%20Park.png?raw=true)
 
